@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#main-container {
+  background-color: #cef2fa;
+  width: 50%;
+  margin: 0 auto;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+p {
+  font-size: small;
+}
+
+button {
+  background-color: black;
+  border: none;
+  color: white;
+  width: 90%;
+  height: 2rem;
+  border-radius: 5px;
+  font-size: small;
+}
